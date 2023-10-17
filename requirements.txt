@@ -15,7 +15,7 @@ pandas
 matplotlib
 python-dateutil
 pytz
-scikit_learn==1.2.2
+scikit_learn
 scipy
 six
 Werkzeug
