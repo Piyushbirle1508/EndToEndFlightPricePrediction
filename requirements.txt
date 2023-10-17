@@ -1,0 +1,17 @@
+flask
+numpy
+pandas
+scikit-learn
+seaborn
+matplotlib
+waitress
+appdirs
+certifi
+click
+distlib
+Jinja2
+joblib
+MarkupSafe
+six
+Werkzeug
+wincertstore
